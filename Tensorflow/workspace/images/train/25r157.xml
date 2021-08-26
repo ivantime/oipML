@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mix_updated</folder>
+	<filename>25r157.jpg</filename>
+	<path>C:\Users\Ivan\Downloads\mix_updated\25r157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>clean</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>461</ymin>
+			<xmax>595</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>
